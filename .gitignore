@@ -1,0 +1,12 @@
+.gradle
+.idea
+annotations
+captures
+reports
+build
+local.properties
+gradle.properties
+.gradletasknamecache
+.DS_Store
+*.iml
+true
